@@ -1,4 +1,5 @@
 # random-generator
+[Live Demo](https://random-number-7b412.firebaseapp.com)
 
 ## Project setup
 ```
